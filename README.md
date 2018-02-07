@@ -4,7 +4,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/sixarm_ruby_string_replace_between.svg)](http://badge.fury.io/rb/sixarm_ruby_string_replace_between)
 [![Build Status](https://travis-ci.org/SixArm/sixarm_ruby_string_replace_between.png)](https://travis-ci.org/SixArm/sixarm_ruby_string_replace_between)
-[![Code Climate](https://codeclimate.com/github/SixArm/sixarm_ruby_string_replace_between.png)](https://codeclimate.com/github/SixArm/sixarm_ruby_string_replace_between)
+[![Code Climate Maintainability](https://api.codeclimate.com/v1/badges/$id/maintainability)](https://codeclimate.com/github/SixArm/$dir/maintainability)
 [![Coverage Status](https://coveralls.io/repos/SixArm/sixarm_ruby_string_replace_between/badge.svg?branch=master&service=github)](https://coveralls.io/github/SixArm/sixarm_ruby_string_replace_between?branch=master)
 
 * Git: <https://github.com/sixarm/sixarm_ruby_string_replace_between>
